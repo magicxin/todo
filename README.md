@@ -2,7 +2,11 @@
 
 我经常会学习一个方向，然后过几周就把他忘记了。所以想做一个记录，保持更新，以及废弃。
 
-## blog](https://github.com/magicxin/blog)
+## [magicxin.github.io](https://github.com/magicxin/magicxin.github.io)
+
+github主页，作为主入口。
+
+## [blog](https://github.com/magicxin/blog)
 
 个人博客。
 
@@ -26,9 +30,31 @@
 
 一个基于iscroll5的下拉加载组件。
 
-## [ma-scroll](https://github.com/magicxin/ma-scroll)
+## [calculator](https://github.com/magicxin/calculator)
 
-一个基于iscroll5的下拉加载组件。
+一个基于javascript及 IEEE 754 Floating-point 浮点数表示的计算器。
+
+## [manageSystem](https://github.com/magicxin/manageSystem)
+
+一个基于koa的管理系统。
+
+## [promise](https://github.com/magicxin/promise)
+
+基于es5实现的promise。
+
+## [constellation](https://github.com/magicxin/constellation)
+
+星座小程序。
+
+## [python](https://github.com/magicxin/python)
+
+python学习。
+
+## [learnKoa](https://github.com/magicxin/learnKoa)
+
+koa学习。
+
+
 
 
 
