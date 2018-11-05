@@ -54,8 +54,16 @@ python学习。
 
 koa学习。
 
+## [OperatingSystem](https://github.com/magicxin/OperatingSystem)
 
+OperatingSystem翻译
 
+## [magic-h5plus](https://github.com/magicxin/magic-h5plus)
 
+基于Vue, webpack, H5plus 的开发框架
+
+## [books](https://github.com/magicxin/books)
+
+一些开发书籍
 
 
